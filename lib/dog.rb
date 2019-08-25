@@ -5,7 +5,7 @@ class Dog
   end
 
   def name
-    return name
+    return @name
   end
 
   def name=(name)
@@ -13,7 +13,7 @@ class Dog
   end
 
   def breed
-    return breed
+    return @breed
   end
 
   def breed=(breed)
