@@ -1,5 +1,5 @@
 class Dog
-  
+
   def name
     return @name
   end
